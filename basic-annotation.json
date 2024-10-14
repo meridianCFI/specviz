@@ -53,10 +53,7 @@
       "height": 10000,
       "id": "94a8ad2e-eaba-48e5-84b5-74a9392cb55f",
       "xunit": "seconds",
-      "yunit": "hertz",
-      "properties": {
-        "label": "🐠"
-      }
+      "yunit": "hertz"
     }
   ],
   [
